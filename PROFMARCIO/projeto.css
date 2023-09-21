@@ -1,0 +1,15 @@
+   
+   .section input{
+        position: 0;
+        top: 0;
+        left: 0;
+        width: 190px;
+        height: 15px;
+        padding: 0 8 px;
+        border: 0;
+        outline: none;
+        background: #9b9ba8;
+        font-size: 13px;
+        border-radius: 3px;
+        box-shadow: 0 0 3px 000;
+    }
